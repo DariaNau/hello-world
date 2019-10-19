@@ -1,3 +1,8 @@
+# Hello world!
+
+Daria here with her very first coding bootcamp assignment. Let's see how far I can get without getting stuck...
+
+
 # Welcome to GitHub
 
 Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
